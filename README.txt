@@ -64,9 +64,9 @@ STEP 3 — Deploy to Render.com
 
 4. Go to the service → "Environment" tab → Add these variables:
    ┌─────────────────────┬──────────────────────────────────────┐
-   │ TELEGRAM_API_ID     │ (your number from Step 1)            │
-   │ TELEGRAM_API_HASH   │ (your hex string from Step 1)        │
-   │ TELEGRAM_SESSION    │ (the string you copied in Step 2)    │
+   │ TELEGRAM_API_ID     │ 39968581            │
+   │ TELEGRAM_API_HASH   │ 85620304967296c9d5f088b3c29937d9        │
+   │ TELEGRAM_SESSION    │ 1BJWap1wBuwoBhg7OLQjJkUiCyNnFYI-YouhZtY00NTJvzSs-KFXPOpg6KvnbvJCY7nXaYpGjR-NbyjdruFu7xR_Nfp96JVajmts_rUQyM0uX4i3KS7UnGP2pc9XcXBLB0Qo-1rTmUo4up8RJXKT1l5JChMN0VbYS_Qu45Wta_zOCdRdWaQ5UTh6VB6y0O_o81LVxZoAemnoT_xW0Fp9Fm4oH0xzvWEO-rQbiCEWrC5po_zhKXem6hwzHZ9ooxUbEKN-5FNxceIrjbpltvzr19OzV79oDkygFe5hLUT7OmjZv-dy9rQCgmj9l78m5QuNlx0Nq6t3l2TWNZMm8BWUIBDWubQtrCvQ=    │
    │ DEST_CHANNEL        │ @kashafdeals                         │
    │ AFFILIATE_TAG       │ kashafdeals-21                       │
    │ CHANNELS            │ EgyptOffersHunter                    │
